@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #fff8ed;
+    background-color:#cc7491;
     color: #5a4633;
     margin: 0;
     padding: 0;
@@ -10,19 +10,19 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background: #d4a373;
+    background: #cc7491;
     color: white;
 }
 
 .hero {
     text-align: center;
     padding: 100px 20px;
-    background: #f8e1c2;
+    background: #cc7491;
 }
 
 .button {
     padding: 10px 20px;
-    background: #9c6644;
+    background: #cc7491;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -36,6 +36,19 @@ header {
 footer {
     text-align: center;
     padding: 20px;
-    background: #d4a373;
+    background: #cc7491;
     color: white;
-}
+}body {
+    font-family: Arial, sans-serif;
+    background-color:#9c5b73; /* pelamushi */
+    color: #fff; /* Белый текст для контраста */
+    margin: 0;
+    padding: 0;
+}.about-me {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #cc7491; /* light mave */
+    color: white;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
