@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8ed;
+    color: #5a4633;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #d4a373;
+    color: white;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: #f8e1c2;
+}
+
+.button {
+    padding: 10px 20px;
+    background: #9c6644;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.about, .products, .contact {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #d4a373;
+    color: white;
+}
